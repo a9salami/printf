@@ -38,5 +38,4 @@ No more than 5 functions per file.
 - Note that we will not provide the _putchar function for this project.
 
 ## Authors
-[Abdullateef Abdulkareem] (https://github.com/atomicabdul4life)
-[Musa Zayyad] (https://github.com/zayyadi)
+[Abu Salami] (https://github.com/a9salami)
